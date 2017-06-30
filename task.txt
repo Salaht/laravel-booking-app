@@ -1,0 +1,19 @@
+	Functionele eisen
+Public
+
+•	Als eerst kan de klant aangeven naar welk land hij wil gaan*
+•	Daarna moeten de accommodaties getoond worden, met de bijbehorende vakanties*
+•	De klant kan dan een accommodatie kiezen voor meer informatie*
+•	Admins moeten kunnen inloggen*
+
+•	Pagina mag niet herladen worden tijdens de reservering
+•	De klant kan ook al de vakantie kiezen, waarna de reservering moet plaatsvinden
+
+Beheer
+	
+•	Admins moeten Landen, accommodaties en vakanties kunnen toegevoegen, wijzigen en verwijderen
+•	De accommodatie en vakantie admin moeten op 1 pagina ,waardoor de relatie tussen die 2 duidelijk zichtbaar zijn.  de paginamag niet herladen worden bij het toevoegen, wijzigen en verwijderen. (dus met javascript!!)
+
+
+admin opgesplits worden
+
